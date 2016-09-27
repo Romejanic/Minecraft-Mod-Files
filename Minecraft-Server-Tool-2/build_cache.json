@@ -64,5 +64,47 @@
     "type": "VANILLA",
     "version": "1.8.7",
     "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.7/minecraft_server.1.8.7.jar"
+  },
+  {
+    "name": "spigot_1.10.2",
+    "type": "SPIGOT",
+    "version": "1.10.2",
+    "url": "http://tcpr.ca/files/spigot/spigot-1.10.2-R0.1-SNAPSHOT-latest.jar"
+  },
+  {
+    "name": "spigot_1.10",
+    "type": "SPIGOT",
+    "version": "1.10",
+    "url": "http://tcpr.ca/files/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar"
+  },
+  {
+    "name": "spigot_1.9.4",
+    "type": "SPIGOT",
+    "version": "1.9.4",
+    "url": "http://tcpr.ca/files/spigot/spigot-1.9.4-R0.1-SNAPSHOT-latest.jar"
+  },
+  {
+    "name": "spigot_1.9.2",
+    "type": "SPIGOT",
+    "version": "1.9.2",
+    "url": "http://tcpr.ca/files/spigot/spigot-1.9.2-R0.1-SNAPSHOT-latest.jar"
+  },
+  {
+    "name": "spigot_1.9",
+    "type": "SPIGOT",
+    "version": "1.9",
+    "url": "http://tcpr.ca/files/spigot/spigot-1.9-R0.1-SNAPSHOT-latest.jar"
+  },
+  {
+    "name": "spigot_1.8.8",
+    "type": "SPIGOT",
+    "version": "1.8.8",
+    "url": "http://tcpr.ca/files/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"
+  },
+  {
+    "name": "spigot_1.8.7",
+    "type": "SPIGOT",
+    "version": "1.8.7",
+    "url": "http://tcpr.ca/files/spigot/spigot-1.8.7-R0.1-SNAPSHOT-latest.jar"
   }
 ]
