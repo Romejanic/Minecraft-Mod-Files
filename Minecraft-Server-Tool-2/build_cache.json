@@ -1,0 +1,62 @@
+[
+  {
+    "name": "mc_1.10.2",
+    "type": "VANILLA",
+    "version": "1.10.2",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10.2/minecraft_server.1.10.2.jar"
+  },
+  {
+    "name": "mc_1.10.1",
+    "type": "VANILLA",
+    "version": "1.10.1",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10.1/minecraft_server.1.10.1.jar"
+  },
+  {
+    "name": "mc_1.10",
+    "type": "VANILLA",
+    "version": "1.10",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.10/minecraft_server.1.10.jar"
+  },
+  {
+    "name": "mc_1.9.4",
+    "type": "VANILLA",
+    "version": "1.9.4",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.4/minecraft_server.1.9.4.jar"
+  },
+  {
+    "name": "mc_1.9.3",
+    "type": "VANILLA",
+    "version": "1.9",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.3/minecraft_server.1.9.3.jar"
+  },
+  {
+    "name": "mc_1.9.2",
+    "type": "VANILLA",
+    "version": "1.9.2",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.2/minecraft_server.1.9.2.jar"
+  },
+  {
+    "name": "mc_1.9.1",
+    "type": "VANILLA",
+    "version": "1.9.1",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9.1/minecraft_server.1.9.1.jar"
+  },
+  {
+    "name": "mc_1.9",
+    "type": "VANILLA",
+    "version": "1.9",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.9/minecraft_server.1.9.jar"
+  },
+  {
+    "name": "mc_1.8.9",
+    "type": "VANILLA",
+    "version": "1.8.9",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.9/minecraft_server.1.8.9.jar"
+  },
+  {
+    "name": "mc_1.8.8",
+    "type": "VANILLA",
+    "version": "1.8.8",
+    "url": "https://s3.amazonaws.com/Minecraft.Download/versions/1.8.8/minecraft_server.1.8.8.jar"
+  }
+]
