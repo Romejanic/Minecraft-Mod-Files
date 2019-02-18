@@ -1,11 +1,11 @@
 {
-    "homepage": "https://www.planetminecraft.com/mod/minecraftforge-witch-hats-164/",
+    "homepage": "http://pmc.la/cwSjq",
     "promos": {
         "1.12.2-latest": "1.2.0",
         "1.12.2-recommended": "1.2.0"
     },
   
     "1.12.2": {
-        "1.2.0": "Mod rewritten from scratch"
+        "1.2.0": "- Mod rewritten from scratch\n- Hat model and texture can be changed by other mods (via events)\n- New rendering system for witch hats"
     }
 }
