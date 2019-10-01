@@ -1,4 +1,6 @@
 {
+    "_comment": "Most links to server JARs came from https://mcversions.net/",
+
     "types": {
         "vanilla": "The base game of Minecraft with no extra features or modifications.",
         "bukkit": "An extension of vanilla which adds support for server-side modding and plugins.",
