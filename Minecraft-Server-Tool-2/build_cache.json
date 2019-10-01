@@ -1,5 +1,8 @@
 [
   {
+    "_comment": "This file is deprecated. It is designed for an unfinished version of MST 2"
+  },
+  {
     "name": "mc_1.10.2",
     "type": "VANILLA",
     "version": "1.10.2",
