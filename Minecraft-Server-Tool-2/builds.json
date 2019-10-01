@@ -1,5 +1,6 @@
 {
     "_comment": "Most links to server JARs came from https://mcversions.net/",
+    "manifestVersion": 1,
 
     "types": {
         "vanilla": "The base game of Minecraft with no extra features or modifications.",
