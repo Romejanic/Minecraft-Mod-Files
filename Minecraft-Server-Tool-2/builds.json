@@ -5,7 +5,7 @@
     "types": {
         "vanilla": "The base game of Minecraft with no extra features or modifications.",
         "bukkit": "An extension of vanilla which adds support for server-side modding and plugins.",
-        "spigot": "A fork of Bukkit which improves performance and fixes bugs ahead of time (Recommended).",
+        
         "forge": "A highly popular mod API for Minecraft which allows you to add new content to the game."
     },
     "builds": [
