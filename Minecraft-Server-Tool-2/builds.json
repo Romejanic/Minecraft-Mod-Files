@@ -58,6 +58,12 @@
             "version": "1.13.2",
             "url": "https://launcher.mojang.com/v1/objects/3737db93722a9e39eeada7c27e7aca28b144ffa7/server.jar",
             "size": 32.3
+        },
+        {
+            "type": "spigot",
+            "version": "1.14.4",
+            "url": "https://papermc.io/api/v1/paper/1.14.4/223/download",
+            "size": 41.2
         }
     ]
 }
