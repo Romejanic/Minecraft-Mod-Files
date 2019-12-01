@@ -1,0 +1,10 @@
+{
+    "latest": "1.0.0",
+    "downloadURL": "https://romejanic.github.io/Minecraft-Server-Tool-2/download.html",
+
+    "changelogs": {
+        "1.0.0": [
+            "First release"
+        ]
+    }
+}
