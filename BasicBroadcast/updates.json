@@ -1,0 +1,9 @@
+{
+  "latest": "1.0.1",
+  "changes": {
+    "1.0.1": [
+      "+ Added update checker",
+      "+ Added bStats metrics"
+    ]
+  }
+}
