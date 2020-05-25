@@ -1,8 +1,6 @@
 {
   "latest": "1.0.1",
-  "download": {
-    "1.0.1": "https://test.com"
-  },
+  "latest-download": "https://test.com",
   "changes": {
     "1.0.1": [
       "+ Added update checker",
