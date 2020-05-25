@@ -2,6 +2,9 @@
   "latest": "1.0.1",
   "latest-download": "https://test.com",
   "changes": {
+    "1.0.0": [
+      "+ First release"
+    ],
     "1.0.1": [
       "+ Added update checker",
       "+ Added bStats metrics"
