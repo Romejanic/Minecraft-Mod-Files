@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.1",
-  "latest-download": "https://test.com",
+  "latest": "1.0.2",
+  "latest-download": "http://adfoc.us/26367374877555",
   "changes": {
     "1.0.0": [
       "+ First release"
@@ -9,6 +9,10 @@
       "+ Added update checker",
       "+ Added bStats metrics",
       "+ Added /basicbroadcast alias"
+    ],
+    "1.0.2": [
+      "+ Added /bb say command",
+      "+ Added autocomplete to /bb command"
     ]
   }
 }
