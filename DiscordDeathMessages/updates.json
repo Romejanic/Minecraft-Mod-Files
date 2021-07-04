@@ -1,6 +1,7 @@
 {
   "latest": "1.0.0",
   "latest-download": "http://adfoc.us/26367375802135",
+  "latest-urgent": true,
   "changes": {
     "1.0.0": [
       "+ First release"
