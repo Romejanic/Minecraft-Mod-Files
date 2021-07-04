@@ -7,7 +7,7 @@
       "+ First release"
     ],
     "1.0.1": [
-       "* Fixed critical bug where unpermitted users could access /ddmset and /ddmclear",
+       "§c* Fixed critical bug where unpermitted users could access /ddmset and /ddmclear",
        "+ Added /ddmversion command",
        "+ Players with ddm.updates permission will be notified when an update is available"
     ]
