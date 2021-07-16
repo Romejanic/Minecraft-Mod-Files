@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.1",
-  "latest-download": "http://adfoc.us/26367380157616",
-  "latest-urgent": true,
+  "latest": "1.1.0",
+  "latest-download": "http://adfoc.us/26367380327832",
+  "latest-urgent": false,
   "changes": {
     "1.0.0": [
       "+ First release"
@@ -10,6 +10,14 @@
        "§c* Fixed critical bug where unpermitted users could access /ddmset and /ddmclear",
        "+ Added /ddmversion command",
        "+ Players with ddm.updates permission will be notified when an update is available"
+    ],
+    "1.1.0": [
+       "§cNOTE: This plugin now requires ProtocolLib! Download it here: https://www.spigotmc.org/resources/protocollib.1997/",
+       "+ Hat overlay in death messages now matches player preference",
+       "+ Added option to prevent Discord from caching skins",
+       "+ Added word filter for motto messages",
+       "+ Admins can now clear other user's mottos",
+       "+ Added /ddmreload command for reloading config"
     ]
   }
 }
