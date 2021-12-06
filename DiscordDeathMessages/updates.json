@@ -1,6 +1,6 @@
 {
-  "latest": "1.1.0",
-  "latest-download": "http://adfoc.us/26367380327832",
+  "latest": "1.1.1",
+  "latest-download": "http://adfoc.us/26367380486337",
   "latest-urgent": false,
   "changes": {
     "1.0.0": [
@@ -18,6 +18,9 @@
        "+ Added word filter for motto messages",
        "+ Admins can now clear other user's mottos",
        "+ Added /ddmreload command for reloading config"
+    ],
+    "1.1.1": [
+       "+ Config option to show player team upon death"
     ]
   }
 }
