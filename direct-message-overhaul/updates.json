@@ -1,0 +1,10 @@
+{
+  "latest": "1.0.0",
+  "latest-download": "https://example.com/download",
+  "latest-urgent": false,
+  "changes": { 
+    "1.0.0": [
+      "+ First release"
+    ]
+  }
+}
