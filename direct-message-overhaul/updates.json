@@ -3,7 +3,7 @@
   "latest-download": "https://example.com/download",
   "latest-urgent": false,
   "changes": { 
-    "1.0.0": [
+    "2.0.0": [
       "+ First release"
     ]
   }
